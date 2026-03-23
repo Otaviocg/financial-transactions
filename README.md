@@ -45,7 +45,7 @@ Sistema de processamento de transações financeiras em tempo real. Mensagens de
 Clone o repositório e suba todos os serviços com um único comando:
 
 ```bash
-git clone https://github.com/seu-usuario/financial-transactions.git
+git clone https://github.com/Otaviocg/financial-transactions.git
 cd financial-transactions
 
 docker compose up --build
